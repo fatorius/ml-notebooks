@@ -7,7 +7,7 @@ Esses notebooks foram criados com o objetivo de aprender na prática diferentes 
 ## 🚀 Modelos Treinados  
 
 ### 🧠 CNN para reconhecimento de caracteres Digits  
-* **Notebook:** [cnn-handwriting-identifier-acc-99-18.ipynb](https://github.com/fatorius/ml-notebooks/blob/main/cnn-handwriting-identifie/)
+* **Notebook:** [cnn-handwriting-identifier-acc-99-18.ipynb](https://github.com/fatorius/ml-notebooks/blob/main/cnn-handwriting-identifier/)
 * **Modelo:** **Convolutional Neural Network (CNN)**  
 * **Dataset:** [A-Z Handwritten Alphabets in .csv format](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 * **Precisão:** **99,18%**  
